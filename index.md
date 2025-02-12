@@ -1,5 +1,5 @@
 ---
-layout: hello
+layout: default
 ---
 
 this is a website

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: very normal friends
-description: very normal not weird at all (:
+description: very normal not weird at all
 ---
 
 ## Matan

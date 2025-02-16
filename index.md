@@ -79,4 +79,4 @@ Credits to PrimoDevHacc for making server
 
 
 
-[Link to another page (work in progress)](./another-page.html).
+[i have friends trust me bro](./another-page.html).

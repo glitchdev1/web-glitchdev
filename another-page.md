@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: very normal friends
+description: very normal not weird at all (:
 ---
 
 ## Matan

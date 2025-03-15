@@ -15,7 +15,7 @@ Credits to PrimoDevHacc for making server
  <li class="masthead__menu-item">
           <a href="https://github.com/Super-brawl-team/Obiad-brawl-v4">Primo's Obaid Brawl v4</a>
         </li>
-
+[Dotti Chat Moments Idea By Qrax](dottichatmoments.html)
 
 
 

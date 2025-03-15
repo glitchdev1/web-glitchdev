@@ -15,8 +15,10 @@ shay is innocent
 best slave owner ever i luv working for him uwu
 ## HalloGaz
 cendi brawl owner and likes to jerk off to moldy ball hello neighbour mods
+## Loky
+owo
 ## Non friends just annoying ppl
-loky *leave me alone*
+
 ## skids/fake devs
 ## Emir OLDBSMODDEV
 absolute legend for keeping the retards away *jokes aside he skids pocket code🙏💀 and also claims to be developing v5-v1 while never actually releasing a functional ipa
